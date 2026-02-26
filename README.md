@@ -1,4 +1,4 @@
-# # My CRUD Task Planner
+# # CRUD Task Planner
 
 ## Overview
 
